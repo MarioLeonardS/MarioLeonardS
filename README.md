@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MarioLeonardS
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning SQL and Power BI
+- 👀 I’m interested in Fullstack Developer
+- 🌱 I’m currently Javascript
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me 
-- 😄 Pronouns: Me
+- 😄 Pronouns: Marfly
 - ⚡ Fun fact: I Love Firefly
 
 <!---
