@@ -17,6 +17,6 @@
 
 #### Connect With Me :
 
-[Whatsapp Contact](https://api.whatsapp.com/send/?phone=6285124430533&text&type=phone_number&app_absent=0)
-[Instagram](https://www.instagram.com/marfly.s/)
+[Whatsapp Contact](https://api.whatsapp.com/send/?phone=6285124430533&text&type=phone_number&app_absent=0) </br>
+[Instagram](https://www.instagram.com/marfly.s/) </br>
 [TikTok](https://www.tiktok.com/@marlsfly)
